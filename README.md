@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi, I'm Ege Yağız KENT
+
+I am a freshman at Bilkent University.
+
+Currently studying Computer Science and learning Java.
+
+This GitHub account is used for my coursework.
+
 
 <!--
 **egeyagizkent/egeyagizkent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
