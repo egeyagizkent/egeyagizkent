@@ -1,12 +1,6 @@
-# Hi, I'm Ege Yağız KENT
+### Hi there 👋 I'm Ege Yağız Kent
 
-I am a freshman at Bilkent University.
-
-Currently studying Computer Science and learning Java.
-
-This GitHub account is used for my coursework.
-
-
+I am a freshman Computer Science student at Bilkent University. Passionate about low-level systems programming and software development.
 <!--
 **egeyagizkent/egeyagizkent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
